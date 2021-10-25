@@ -7,8 +7,7 @@
 </p>
 <p align="center">
   Download on your platform of choice <br>
-  <a href="https://github.com/erikrichardlarson/hashlips_art_engine_ui/releases/download/0.0.1/hashlips_art_engine_m1.zip"> Mac M1</a><br>
-  <a href="https://github.com/erikrichardlarson/hashlips_art_engine_ui/releases/download/0.0.1/hashlips_art_engine_intel.zip">Mac Intel</a> <br>
+  <a href="https://github.com/erikrichardlarson/hashlips_art_engine_ui/releases/download/0.0.1/hashlips_art_engine.zip">Mac</a> <br>
   <a href="https://github.com/erikrichardlarson/hashlips_art_engine_ui/releases/download/0.0.1/hashlips_art_engine.exe.zip"> Windows</a> 
   <br>
   <br>
