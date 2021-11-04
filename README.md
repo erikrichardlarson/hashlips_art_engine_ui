@@ -11,5 +11,5 @@
   <a href="https://github.com/erikrichardlarson/hashlips_art_engine_ui/releases/download/0.0.1/hashlips_art_engine.exe.zip"> Windows</a> 
   <br>
   <br>
-  Will be adding the source and more docs here soon, also planning to support nested layers, gifs, and integrate with the Solana candy machine.<br><br>Feel free to reach out here if you have issues, or in Hashlip's discord. Donations are welcome if you find the app useful: <code>DXY41TkDcxuSP5DMeKgUjbAXWLUS9Satpv1gntHULGiE </code> <br>
+  Donations are welcome if you find the app useful: <code>DXY41TkDcxuSP5DMeKgUjbAXWLUS9Satpv1gntHULGiE </code> <br>
 </p>
